@@ -26,7 +26,7 @@ Software enthusiast with Bachelors in Computer science, highly skilled in HTML, 
 
 <br>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamumeshbaghel&&theme=xcode)](https://github.com/iamumeshbaghel)
+[![Umesh Baghel GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamumeshbaghel&&theme=xcode)](https://github.com/iamumeshbaghel)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamumeshbaghel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iamumeshbaghel" /></p>
 
